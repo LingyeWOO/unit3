@@ -30,17 +30,29 @@ method of thinking.
 
   -- Product: Water bottles
 
-Feb. 10th
-===
+Tuesday, February 11th:
+=======================
 
-Feb. 11th
-===
+We started with a warmup about finding the distance between various cities and through this, we learned how to extract tuples from lists. We also defined a function called distance in myLib.py. Following that, we established a record of tasks in order to see what steps need to be taken to create our client's program for Unit 3. Using that, we began the first step which is planning. We had an interview with our client (in my case, Lingye) and I learned about her needs (see RecordOfTasks.md).
 
-Feb. 13th
+Next time, I think I need to start working on establishing what Lingye's needs are in terms of usability.
+
+Wednesday, February 12t:h
+=====
+Today, we started with a warmup called "Bolt versus Cheetah" and learned about acceleration and velocity, converting it to a time given the distance covered. We used math functions such as sqrt and practiced doing mathematical equations using variables.
+
+We then worked on calculating the average salary of a group of people within revealing their personal information and practiced with the reduce function. We used encryption by creating a salt and then hashing it using a separate function. This makes it so that the password can not be seen easily.
+
+For next class, I need to update my Record of Tasks, designStatement, and continue developing the log in/registration system.
+
+Friday, February 14th:
 ====
+Today, we practiced with strings using a book called "Automate the Boring Stuff with Python." It was a good way to learn about split, join, and a whole bunch of other commands which can be seen in the stringMan.py file under warmups.
 
-Feb. 4th
+For the next class, I need to continue practicing these commands so that I have a good grasp on their syntax and usage.
+
+Monday, February 17th:
 ===
+Today, we began with a programming warmup without a laptop; it helped me to learn how I need to continue practicing in order to hone my syntax. After that, we did a Kahoot on the physical parts of a computer which was interesting and good review over memory and other things. Lastly, we met with our client to talk about the success criteria which can be seen in the Criteria A section and the Record of Tasks file.
 
-Feb.17th
-====
+We received a homework assignment to find an instance where software is used in a profession other than computer science. I completed it here. We were also told to practice with strings as we may be given a homework on Classroom. Lastly, I want to practice more with Python in general in order to improve my skills.
