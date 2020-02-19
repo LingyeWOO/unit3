@@ -56,3 +56,9 @@ Monday, February 17th:
 Today, we began with a programming warmup without a laptop; it helped me to learn how I need to continue practicing in order to hone my syntax. After that, we did a Kahoot on the physical parts of a computer which was interesting and good review over memory and other things. Lastly, we met with our client to talk about the success criteria which can be seen in the Criteria A section and the Record of Tasks file.
 
 We received a homework assignment to find an instance where software is used in a profession other than computer science. I completed it here. We were also told to practice with strings as we may be given a homework on Classroom. Lastly, I want to practice more with Python in general in order to improve my skills.
+
+Wednesday, Feb 19th:
+===
+
+Today we have tried the famous and most typical bank problem on python and created a dictionary for that.
+We also did the presentations on the profession and their input/output system.
