@@ -23,4 +23,8 @@ Record of Task
 **Task Number** | **Palnned Action** | **Expected outcome** | Time Estimated | Target Completion | Criteria 
 ---|---|---|---|---|---
 1| **Planning**: Meet with client for a first conversation | 1. Obtain the basic client requirenments 2. Sketch basic system diagram | 30 min
-2| **Development**: Create a secure login system in Python | A Python script that allows encrypeted login of an user | 1h 
+2| **Design**: Second meeting with the client| 1. Scratch the system diagram; 2. Decide the coding language; 3. decide the output system | 1 h
+3| **Development**: Create a secure login system in Python | A Python script that allows encrypeted login of an user | 1h 
+4| **Testing**: TBC
+5| **Implementation**: TBC
+
