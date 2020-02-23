@@ -47,15 +47,13 @@ For next class, I need to update my Record of Tasks, designStatement, and contin
 
 Friday, February 14th:
 ====
-Today, we practiced with strings using a book called "Automate the Boring Stuff with Python." It was a good way to learn about split, join, and a whole bunch of other commands which can be seen in the stringMan.py file under warmups.
-
-For the next class, I need to continue practicing these commands so that I have a good grasp on their syntax and usage.
+Today, we use a book called "automating boring things in Python" to practice strings.This is a good way to learn split, join, and a whole bunch of other commands, which you can see in the stringman.py file under warmups.
+In the next lesson, I'll continue to practice these commands to get a better grasp of their grammar and usage.
 
 Monday, February 17th:
 ===
-Today, we began with a programming warmup without a laptop; it helped me to learn how I need to continue practicing in order to hone my syntax. After that, we did a Kahoot on the physical parts of a computer which was interesting and good review over memory and other things. Lastly, we met with our client to talk about the success criteria which can be seen in the Criteria A section and the Record of Tasks file.
-
-We received a homework assignment to find an instance where software is used in a profession other than computer science. I completed it here. We were also told to practice with strings as we may be given a homework on Classroom. Lastly, I want to practice more with Python in general in order to improve my skills.
+Today, we begin by warming up with programming without a laptop;It helped me learn how to keep practicing to hone my grammar.After that, we did a Kahoot in the physics section of the computer, which was interesting, a good review of memory and other things.Finally, we discussed the criteria for success with our customers, which can be seen in section A of the standard and in the task log file.
+We were given a homework assignment to find an example of software being used in an industry other than computer science.I finished it here.We were also told to practice with the strings because we might have homework in class.Finally, to improve my skills, I want to practice Python more.
 
 Wednesday, Feb 19th:
 ===
