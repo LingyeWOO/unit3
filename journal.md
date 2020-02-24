@@ -60,3 +60,16 @@ Wednesday, Feb 19th:
 
 Today we have tried the famous and most typical bank problem on python and created a dictionary for that.
 We also did the presentations on the profession and their input/output system.
+
+Monday, Feb 24th:
+===
+- What did we do?
+We did practice and learnt the new function - class, and based our practice on the dog class.
+Also, we spent the other half of the class on drawing graphs and calculating the difference of a sine function.
+
+- What did I leanr?
+I learnt how to do use the class function and what "self" means in the fucntion.
+
+- HMW
+OOP
+Bring sketches of the app
