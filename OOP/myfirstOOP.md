@@ -122,30 +122,30 @@ Answers to the questions:
   class()
   ```
 
-1. What’s the spelling convention for a class name?
+2. What’s the spelling convention for a class name?
 
-  CamelCase notation, starting with a capital letter
+    CamelCase notation, starting with a capital letter
 
-1. How do you instantiate, or create an instance of, a class?
+3. How do you instantiate, or create an instance of, a class?
 
-   Use the __init__() method to initialize (e.g., specify) an object’s initial attributes by giving them their default value (or state). 
+    Use the __init__() method to initialize (e.g., specify) an object’s initial attributes by giving them their default value (or state). 
 
-1. What’s a method?
+4. What’s a method?
 
-  Instance methods or simply functions, are defined inside a class and are used to define the behaviours of the objects. They can also be used to perform operations with the attributes of our objects. Like the __init__ method, the first argument is always self:
+    Instance methods or simply functions, are defined inside a class and are used to define the behaviours of the objects. They can also be used to perform operations with the attributes of our objects. Like the __init__ method, the first argument is always self:
 
-1. What’s the purpose of self?
+5. What’s the purpose of self?
 
-  This method must have at least one argument as well as the self variable, which refers to the object itself (e.g., Dog).
+     This method must have at least one argument as well as the self variable, which refers to the object itself (e.g., Dog).
 
-1. What’s the purpose of the __init__ method?
+6. What’s the purpose of the __init__ method?
 
-  Use the __init__() method to initialize (e.g., specify) an object’s initial attributes by giving them their default value (or state). 
+    Use the __init__() method to initialize (e.g., specify) an object’s initial attributes by giving them their default value (or state). 
 
-1. Describe how inheritance helps prevent code duplication.
+7. Describe how inheritance helps prevent code duplication.
 
-  If you have two classes that share many of the same methods AND share many of the same properties and fields then I would create a parent class. Inheritance is probably your best solution here.
+    If you have two classes that share many of the same methods AND share many of the same properties and fields then I would create a parent class. Inheritance is probably your best solution here.
 
-1. Can child classes override properties of their parents?
+8. Can child classes override properties of their parents?
 
-  no
+    no
