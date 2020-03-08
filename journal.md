@@ -73,3 +73,20 @@ I learnt how to do use the class function and what "self" means in the fucntion.
 - HMW
 OOP
 Bring sketches of the app
+
+Tue, Feb.25th:
+===
+Today I finished my Ui design, and self studies the first 2 pages of the unit notes.
+
+Wed, Feb.26th
+====
+Today I continued on reading the unit one notes from Dr. Ruben and changed the color of my user interface.
+
+Thur. Feb.27th
+===
+Today I reviewed the notes from unit two and recorded my questions.
+
+Fri. Feb.28th
+====  
+Today I finished the games on coding.com, honestly speaking i did not quite understand the last one, so i researched and finished it.
+
