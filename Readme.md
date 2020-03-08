@@ -9,6 +9,8 @@ This file provides links to different file in this project
 
 [Criteria A](https://github.com/LingyeWU/unit3/blob/master/Criteria%20A.md)
 
+[Criteria B](https://github.com/LingyeWU/unit3/blob/master/CriteriaB.md)
+
 [Journal](https://github.com/LingyeWU/unit3/blob/master/journal.md)
 
 [Appendix](https://github.com/LingyeWU/unit3/blob/master/Appendix.md)
