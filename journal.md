@@ -90,3 +90,16 @@ Fri. Feb.28th
 ====  
 Today I finished the games on coding.com, honestly speaking i did not quite understand the last one, so i researched and finished it.
 
+Mon, Mar. 9th
+===
+1. modality
+  - non - modal
+  - application - modal
+  - window - modal
+(this property is under Widget)
+
+2. We had to restart everything and that is extrememly complicated. sicne there shoudl only be one main window and the rest dialogue boxes.
+
+
+  
+
