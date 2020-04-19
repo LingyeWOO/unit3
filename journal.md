@@ -101,5 +101,6 @@ Mon, Mar. 9th
 2. We had to restart everything and that is extrememly complicated. sicne there shoudl only be one main window and the rest dialogue boxes.
 
 
-  
-
+ Apr.12th
+ ===
+ Today I started the week 29 work. I was really stuck with the HL question after organizing the two sets of statistics. The coding practice took me 2 hours to complete. 
